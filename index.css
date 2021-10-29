@@ -1,6 +1,6 @@
 body {
   background-color: #F6DCA4;
-  font-family: rosario;
+  font-family: rosario red hat display;
   width: auto;
   height: auto;
 }
@@ -121,22 +121,9 @@ padding: 20px;
 }
 
 
-.cardone {
+.card { 
   width: 287px;
-  height:527px;
-}
-
-.cardtwo {
-  width: 287px;
-  height:527px;
+  height: 527px;
   background-color: #FFECC3;
   padding-right: 20px;
-}
-
-.cardthree {
-  width: 287px;
-  height:527px;
-  background-color:#FFECC3;
-  padding-right: 20px;
-  
 }
